@@ -1,5 +1,5 @@
 {
-  "name": "didi-command-i18n",
+  "name": "@didi/didi-command-i18n",
   "version": "0.0.1",
   "description": "",
   "main": "main.js",
